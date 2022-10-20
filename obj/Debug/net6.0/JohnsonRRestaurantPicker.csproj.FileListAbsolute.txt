@@ -1,0 +1,15 @@
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\bin\Debug\net6.0\JohnsonRRestaurantPicker.exe
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\bin\Debug\net6.0\JohnsonRRestaurantPicker.deps.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\bin\Debug\net6.0\JohnsonRRestaurantPicker.runtimeconfig.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\bin\Debug\net6.0\JohnsonRRestaurantPicker.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\bin\Debug\net6.0\JohnsonRRestaurantPicker.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.AssemblyInfo.cs
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\refint\JohnsonRRestaurantPicker.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\JohnsonRRestaurantPicker.genruntimeconfig.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\JohnsonRRestaurantPicker\obj\Debug\net6.0\ref\JohnsonRRestaurantPicker.dll
