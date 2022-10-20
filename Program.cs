@@ -18,7 +18,7 @@ yesNo = yesNo.ToUpper();
     if(yesNo == "NO")
     {
         // If the player types NO, playAgain will be declared false
-        Console.WriteLine("Alright, go starve then.");
+        Console.WriteLine("Fine, go starve then.");
         playAgain = false;
     }
     else if
@@ -45,23 +45,23 @@ yesNo = yesNo.ToUpper();
                 {
                     case 1: Console.WriteLine("McDonald's"); break;
 
-                    case 2: Console.WriteLine("Fast Food 2"); break;
+                    case 2: Console.WriteLine("Jack in the Box"); break;
 
-                    case 3: Console.WriteLine("Fast Food 3"); break;
+                    case 3: Console.WriteLine("Burger King"); break;
 
-                    case 4: Console.WriteLine("Fast Food 4"); break;
+                    case 4: Console.WriteLine("Chick-Fil-A"); break;
 
-                    case 5: Console.WriteLine("Fast Food 5"); break;
+                    case 5: Console.WriteLine("Subway"); break;
 
-                    case 6: Console.WriteLine("Fast Food 6"); break;
+                    case 6: Console.WriteLine("In-N-Out Burger"); break;
 
-                    case 7: Console.WriteLine("Fast Food 7"); break;
+                    case 7: Console.WriteLine("Popeye's"); break;
 
-                    case 8: Console.WriteLine("Fast Food 8"); break;
+                    case 8: Console.WriteLine("Five Guys"); break;
 
-                    case 9: Console.WriteLine("Fast Food 9"); break;
+                    case 9: Console.WriteLine("Arby's"); break;
 
-                    case 10: Console.WriteLine("Fast Food 10"); break;
+                    case 10: Console.WriteLine("Carl's Jr"); break;
                 }
 
             }
@@ -73,23 +73,23 @@ yesNo = yesNo.ToUpper();
                 {
                     case 1: Console.WriteLine("Panda Express"); break;
 
-                    case 2: Console.WriteLine("Chinese Takeout 2"); break;
+                    case 2: Console.WriteLine("East n West Chinese Cuisine"); break;
 
-                    case 3: Console.WriteLine("Chinese Takeout 3"); break;
+                    case 3: Console.WriteLine("Dynasty Restaurant"); break;
 
-                    case 4: Console.WriteLine("Chinese Takeout 4"); break;
+                    case 4: Console.WriteLine("Peking Restaurant"); break;
 
-                    case 5: Console.WriteLine("Chinese Takeout 5"); break;
+                    case 5: Console.WriteLine("Locke Garden"); break;
 
-                    case 6: Console.WriteLine("Chinese Takeout 6"); break;
+                    case 6: Console.WriteLine("Mandarin Villa"); break;
 
-                    case 7: Console.WriteLine("Chinese Takeout 7"); break;
+                    case 7: Console.WriteLine("Golden Bowl"); break;
 
-                    case 8: Console.WriteLine("Chinese Takeout 8"); break;
+                    case 8: Console.WriteLine("Lucky House"); break;
 
-                    case 9: Console.WriteLine("Chinese Takeout 9"); break;
+                    case 9: Console.WriteLine("Jade Fountain"); break;
 
-                    case 10: Console.WriteLine("Chinese Takeout 10"); break;
+                    case 10: Console.WriteLine("Mandarin Villa"); break;
             }}
             else if(input == "ITALIAN")
             {
@@ -99,23 +99,23 @@ yesNo = yesNo.ToUpper();
                 {
                     case 1: Console.WriteLine("Olive Garden"); break;
 
-                    case 2: Console.WriteLine("Italian 2"); break;
+                    case 2: Console.WriteLine("Angelina's"); break;
 
-                    case 3: Console.WriteLine("Italian 3"); break;
+                    case 3: Console.WriteLine("Mezzo"); break;
                     
-                    case 4: Console.WriteLine("Italian 4"); break;
+                    case 4: Console.WriteLine("Pietro's"); break;
                     
-                    case 5: Console.WriteLine("Italian 5"); break;
+                    case 5: Console.WriteLine("De Vega Brothers"); break;
                     
-                    case 6: Console.WriteLine("Italian 6"); break;
+                    case 6: Console.WriteLine("Padella"); break;
                     
-                    case 7: Console.WriteLine("Italian 7"); break;
+                    case 7: Console.WriteLine("Calzone Life"); break;
                     
-                    case 8: Console.WriteLine("Italian 8"); break;
+                    case 8: Console.WriteLine("Pastosa by Lucia"); break;
                     
-                    case 9: Console.WriteLine("Italian 9"); break;
+                    case 9: Console.WriteLine("Romano's Macaroni Grill"); break;
                     
-                    case 10: Console.WriteLine("Italian 10"); break;
+                    case 10: Console.WriteLine("Gian's Delicatessen"); break;
                 }
             }
             else
