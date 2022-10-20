@@ -63,7 +63,7 @@ yesNo = yesNo.ToUpper();
 
                     case 10: Console.WriteLine("Carl's Jr"); break;
                 }
-
+                pickRestaurant = false;
             }
             else if(input == "CHINESE TAKEOUT")
             {
@@ -90,7 +90,9 @@ yesNo = yesNo.ToUpper();
                     case 9: Console.WriteLine("Jade Fountain"); break;
 
                     case 10: Console.WriteLine("Mandarin Villa"); break;
-            }}
+                }
+                pickRestaurant = false;
+            }
             else if(input == "ITALIAN")
             {
                 // If the player chooses ITALIAN, they will recieve a random restaurant listed under ITALIAN
@@ -117,6 +119,7 @@ yesNo = yesNo.ToUpper();
                     
                     case 10: Console.WriteLine("Gian's Delicatessen"); break;
                 }
+                pickRestaurant = false;
             }
             else
             {
@@ -124,12 +127,12 @@ yesNo = yesNo.ToUpper();
                 Console.WriteLine("That wasn't an option.");
                 Console.Write("Please pick again: ");
             }
-            Console.WriteLine("I hope you are satisfied with your choice.");
-            Console.WriteLine("Do you want to pick again?");
-            pickRestaurant = false;
             
 
         }
+            Console.WriteLine(" ");
+            Console.WriteLine("I hope you are satisfied with your choice.");
+            Console.WriteLine("Do you want to pick again?");
     }
     else
     {
