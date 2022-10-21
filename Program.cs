@@ -1,6 +1,5 @@
 ﻿// Richard Johnson
-
-// 10-20-22
+// 10-21-22
 
 bool playAgain = true;
 bool pickRestaurant;
@@ -39,6 +38,7 @@ yesNo = yesNo.ToUpper();
 
             if (input == "FAST FOOD")
             {
+                Console.Clear();
                 // If the player chooses FAST FOOD, they will recieve a random restaurant listed under FAST FOOD
                 restaurantChoice = random.Next(1, 10);
                 switch(restaurantChoice)
@@ -68,6 +68,7 @@ yesNo = yesNo.ToUpper();
             else if(input == "CHINESE TAKEOUT")
             {
                 // If the user chooses CHINESE TAKEOUT, they will recieve a random restaurant listed under CHINESE TAKEOUT
+                Console.Clear();
                 restaurantChoice = random.Next(1, 10);
                 switch(restaurantChoice)
                 {
@@ -96,6 +97,7 @@ yesNo = yesNo.ToUpper();
             else if(input == "ITALIAN")
             {
                 // If the player chooses ITALIAN, they will recieve a random restaurant listed under ITALIAN
+                Console.Clear();
                 restaurantChoice = random.Next(1, 10);
                 switch(restaurantChoice)
                 {
@@ -130,13 +132,17 @@ yesNo = yesNo.ToUpper();
             
 
         }
+            // After a restaurant has been randomly picked, the text below will be printed, and the program will loop back to the
+            // YES or NO input from the beginning, allowing the user to either choose to pick again, or exit the program
             Console.WriteLine(" ");
             Console.WriteLine("I hope you are satisfied with your choice.");
             Console.WriteLine("Do you want to pick again?");
     }
     else
     {
-        //
+        // If the user inputs anything aside from YES or NO, the program will print the text below to the console, and then go back
+        // to the beginning of the loop so the user can try to input it again.
+        Console.WriteLine("Invalid Input");
     }
-    //
+    
 }
