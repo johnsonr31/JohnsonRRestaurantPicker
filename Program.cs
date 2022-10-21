@@ -1,7 +1,4 @@
 ﻿// Richard Johnson
-<<<<<<< HEAD
-// 10-21-22
-=======
 
 // 10-20-22
 //Peer review: By Kenneth Fujimura
@@ -13,7 +10,6 @@
 //- When you ask users to enter a category, when the user puts in the wrong inputs and the program gives an error message and tells users to try again, I would include instructions telling users to spell the categories in the exact same way you did, just for a little clarity.
 //- Your random number generator for whatever reason won't pull the last number for whatever reason. If you increase the scope to be "random.Next(1, 11)" for whatever reason it start pulling the last option in your switch statements. I'm not totally sure why that's the case, but that's how it is.
 //If you have any questions, let me know. Otherwise, everything looks really good! Congrats!
->>>>>>> 8409bdd2862f37b71727c782216f17b43b8fddb9
 
 bool playAgain = true;
 bool pickRestaurant;
